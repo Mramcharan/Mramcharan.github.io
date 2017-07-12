@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcom to the Virtual Reality world.
 
 You can use the [editor on GitHub](https://github.com/Mramcharan/vr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -12,5 +12,5 @@
 #### types of viewers
 1. viewer with smartphone.
 2. viewer that connects with desktop. 
-3. stand-alone viewer without smartphone & without connecting. 
+3. stand-alone viewer without smartphone & without connecting desktop. 
 
